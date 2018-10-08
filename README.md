@@ -16,7 +16,7 @@ Web Development Bootcamp for RCS
 4. CSS Basics
    * CSS Selectors
 5. Intermediate CSS / responsive / mobile
-   * layouts - flex / grid
+   * layouts - normal / floats / flexbox / grid
 
 ### Week 2
 1. Bootstrap / other CSS frameworks / SASS preprocessor
@@ -42,6 +42,6 @@ Web Development Bootcamp for RCS
 5. Basic MVC model
 
 ### Week 5
-1. PHP / Laravel framework / other frameworks / languages
+1. PHP / Laravel framework / Wordpress / other frameworks / languages
 2. Security / Packaging(Webpack) / Authorization / Authentication
 3. Project Presentation
