@@ -5,10 +5,10 @@ Web Development Bootcamp for RCS
 
 ### Week 1
 1. Intro to web dev / history / overview
-  * Git -> Github
-  * Web Deloper Tools
-  * Code Editors -> Visual Studio Code setup
-  * Cloud based code pens
+   * Git -> Github
+   * Web Deloper Tools
+   * Code Editors -> Visual Studio Code setup
+   * Cloud based code pens
 2. HTML Basics
 3. Intermediate HTML
 4. CSS Basics
