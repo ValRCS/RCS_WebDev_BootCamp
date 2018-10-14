@@ -1,7 +1,7 @@
 # RCS_WebDev_BootCamp
 Web Development Bootcamp for RCS
 
-![HomePage](https://valrcs.github.io/RCS_WebDev_BootCamp/)
+[HomePage](https://valrcs.github.io/RCS_WebDev_BootCamp/)
 
 ## Schedule
 
