@@ -1,4 +1,4 @@
-1. Code Editors
+## 1. Code Editors
  * Visual Studio Code - https://code.visualstudio.com/
  Alternatives
  * Sublime 3 https://www.sublimetext.com/3
@@ -6,7 +6,7 @@
  * vim, emacs, gedit, nano - Linux
  * many others (but not Word processors!!!)
 
-2. Online Code Eitors / Playpens
+## 2. Online Code Eitors / Playpens
  * https://codepen.io/
  Alternatives
  * https://jsfiddle.net/
