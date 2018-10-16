@@ -9,3 +9,7 @@ CSS resources
 * https://learn.freecodecamp.org/responsive-web-design/basic-css
 
 * Standards: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+
+## basic Web Site folder structure
+
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
