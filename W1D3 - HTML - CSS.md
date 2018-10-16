@@ -6,5 +6,6 @@ CSS resources
 * https://developer.mozilla.org/en-US/docs/Web/CSS
 * https://www.w3schools.com/css/
 * http://www.csszengarden.com/
+* https://learn.freecodecamp.org/responsive-web-design/basic-css
 
 * Standards: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
