@@ -16,4 +16,6 @@ CSS resources
 
 ## Emmet Support in Visual Studio Code for HTML
 
+* https://emmet.io/
+
 * https://code.visualstudio.com/docs/languages/html
