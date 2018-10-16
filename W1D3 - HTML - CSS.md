@@ -13,3 +13,7 @@ CSS resources
 ## basic Web Site folder structure
 
 * https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+
+## Emmet Support in Visual Studio Code for HTML
+
+* https://code.visualstudio.com/docs/languages/html
