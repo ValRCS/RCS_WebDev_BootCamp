@@ -18,4 +18,6 @@ CSS resources
 
 * https://emmet.io/
 
+* https://code.visualstudio.com/docs/editor/emmet
+
 * https://code.visualstudio.com/docs/languages/html
