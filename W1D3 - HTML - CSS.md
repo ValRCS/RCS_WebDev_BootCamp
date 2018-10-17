@@ -1,3 +1,10 @@
+## HTML 
+
+* tables - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+* audio tag - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
+* video tag - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+
+
 ## Cascading Style Sheets
 CSS - describes the **presentation** of a document written in HTML ( and some others such as XML -> SVG etc)
 
