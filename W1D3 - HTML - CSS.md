@@ -1,3 +1,7 @@
+## Installing Git
+
+https://www.atlassian.com/git/tutorials/install-git
+
 ## HTML 
 
 * tables - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
