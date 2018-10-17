@@ -5,6 +5,7 @@ https://learn.freecodecamp.org/responsive-web-design/basic-css/add-rounded-corne
 
 ### Extra
 https://css-tricks.com/css-basics-syntax-matters-syntax-doesnt/
+
 https://learn.shayhowe.com/
 
 ## CSS Tricks
