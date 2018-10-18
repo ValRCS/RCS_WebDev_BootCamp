@@ -1,3 +1,8 @@
+## Box-Sizing (Border-Box for easier life!)
+
+* https://css-tricks.com/international-box-sizing-awareness-day/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing
+
 ## Specificity Calculation
 
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
