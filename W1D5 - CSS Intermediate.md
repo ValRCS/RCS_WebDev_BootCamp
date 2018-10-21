@@ -27,3 +27,7 @@
 ## Media Queries
 
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+
+## Bootstrap vs Grid layout
+
+* https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163
