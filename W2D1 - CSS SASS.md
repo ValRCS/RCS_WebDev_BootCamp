@@ -3,6 +3,12 @@
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
 * full official spec: https://www.w3.org/TR/css-box-3/
 
+## Layout
+
+### Flexbox
+
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+
 
 # SASS tips
 
