@@ -15,7 +15,8 @@
 
 
 * https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout/
-Rachel Andrew is one of big CSS grid experts, great CSS grid site:
+
+Rachel Andrew is a leading authority on CSS grid, great CSS grid site:
 https://gridbyexample.com/
 
 ## Learn CSS Grid the fun way
