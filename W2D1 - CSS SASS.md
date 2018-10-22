@@ -47,3 +47,7 @@ https://gridbyexample.com/
 
 * https://www.creativebloq.com/inspiration/css-animation-examples
 
+## For Bezier Curves to be used in animations
+
+* http://cubic-bezier.com
+
