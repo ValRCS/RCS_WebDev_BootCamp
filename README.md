@@ -20,3 +20,4 @@ Web Development Bootcamp for RCS
 
 * RCS Web NVA 22.10.2018 - CSS / SASS / Bootstrap: http://youtu.be/wVahUciGDP8
 * RCS Web NVA 23.10.2018 W2D2: http://youtu.be/hI9h7PZtkWo
+* RCS Web NVA 24.10.2018 W2D3 CSS Grid / Javascript: http://youtu.be/3QMPbmbyuKI
