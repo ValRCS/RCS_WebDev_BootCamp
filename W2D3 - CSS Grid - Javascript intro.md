@@ -1,3 +1,7 @@
+## Pedantic CSS learning
+
+* http://book.mixu.net/css/
+
 ## CSS Grid for layout (2D!)
 
 * https://learn.freecodecamp.org/responsive-web-design/css-grid
