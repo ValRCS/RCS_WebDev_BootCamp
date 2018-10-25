@@ -11,6 +11,10 @@ Arrays are really objects underneath...
 
 * https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript
 
+## Reserved Keywords
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
+
 # More Javascript tutorials to complete at  your own pace:
 
 * https://www.codecademy.com/learn/introduction-to-javascript
