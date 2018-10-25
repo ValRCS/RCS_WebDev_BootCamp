@@ -2,6 +2,11 @@
 
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string
 
+## Arrays
+
+Arrays are really objects underneath...
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 # More Javascript tutorials to complete at  your own pace:
 
 * https://www.codecademy.com/learn/introduction-to-javascript
