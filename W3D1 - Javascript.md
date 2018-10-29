@@ -8,6 +8,9 @@ MacOs
 Windows
 * https://gitforwindows.org/
 
+## Objects
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+
 ### Various front-end development setups
 
 * https://www.taniarascia.com/my-front-end-web-development-setup/
