@@ -1,4 +1,6 @@
+## Installing Git
 
+* https://www.atlassian.com/git/tutorials/install-git
 
 ### Various front-end development setups
 
