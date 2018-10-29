@@ -10,6 +10,7 @@ Windows
 
 ## Objects
 * https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 
 ### Various front-end development setups
 
