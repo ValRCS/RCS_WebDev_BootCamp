@@ -4,7 +4,7 @@
 
 ## Where to include Javascript in your HTML?
 
-Current state of art (2018)- in the <body> but with async or defer !
+Current state of art (2018)- in the < body > but with async or defer !
 
 * https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup
 * https://developers.google.com/speed/docs/insights/BlockingJS
