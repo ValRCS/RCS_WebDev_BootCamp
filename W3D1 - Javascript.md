@@ -11,6 +11,7 @@ Windows
 ## Objects
 * https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
 Maybe a bit easier:
 * https://www.w3schools.com/js/js_objects.asp
 
