@@ -1,3 +1,7 @@
+## Vanilla JS
+
+* http://vanilla-js.com/
+
 ## jQuery
 
 * https://jquery.com/
