@@ -8,8 +8,9 @@
 * https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a
 
 
+## 100 Years Latvia programming game
 
-
+** http://www.100gadesstunda.lv/level1/level1-1.html
 
 ## React Framework
 
