@@ -15,6 +15,11 @@
 
 * https://learn.freecodecamp.org/front-end-libraries/bootstrap/
 
+# ES6 cheatsheet (not all features are widely used)
+
+* https://devhints.io/es6
+
+
 
 # React
 
