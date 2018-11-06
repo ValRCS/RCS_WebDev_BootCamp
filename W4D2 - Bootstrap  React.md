@@ -2,6 +2,11 @@
 
 * https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/
 
+## Spread operator in Javascript (ES6)
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+* https://zendev.com/2018/05/09/understanding-spread-operator-in-javascript.html
+
 
 # Bootstrap section (everyone complete this)
 
