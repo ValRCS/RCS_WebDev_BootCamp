@@ -23,7 +23,7 @@
 
 ## Recursion !
 Define base case 
-Call the function insid
+Call the function inside
 
 * https://javascript.info/recursion
 * https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea
