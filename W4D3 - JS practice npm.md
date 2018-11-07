@@ -25,5 +25,7 @@
 Define base case 
 Call the function inside
 
+Limited use in production but very useful for certain types of exercises (parsing tree type structures)
+
 * https://javascript.info/recursion
 * https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea
