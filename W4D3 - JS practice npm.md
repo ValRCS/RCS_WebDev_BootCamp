@@ -29,3 +29,8 @@ Limited use in production but very useful for certain types of exercises (parsin
 
 * https://javascript.info/recursion
 * https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea
+
+## Reduce with accumulator
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+* https://www.w3schools.com/jsref/jsref_reduce.asp
