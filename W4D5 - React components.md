@@ -3,11 +3,11 @@
 
 
 
-##This operator
+## This operator
 
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 
-##Checking if variable is an array
+## Checking if variable is an array
 
 * https://stackoverflow.com/questions/767486/how-do-you-check-if-a-variable-is-an-array-in-javascript
 
