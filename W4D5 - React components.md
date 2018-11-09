@@ -13,6 +13,9 @@
 
 * https://stackoverflow.com/questions/767486/how-do-you-check-if-a-variable-is-an-array-in-javascript
 
+## Handling Events
+* https://reactjs.org/docs/handling-events.html
+
 ## Good React course on Udemy
 
 * https://www.udemy.com/react-the-complete-guide-incl-redux/
