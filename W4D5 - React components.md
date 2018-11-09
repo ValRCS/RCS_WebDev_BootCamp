@@ -1,7 +1,9 @@
 ## W4D5 video
 * http://youtu.be/3quy48j_3xI
 
+## Official React tutorial from Facebook
 
+* https://reactjs.org/tutorial/tutorial.html
 
 ## This operator
 
