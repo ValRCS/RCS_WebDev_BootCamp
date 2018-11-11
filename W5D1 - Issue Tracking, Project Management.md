@@ -1,6 +1,6 @@
 # Product Specification
 
-![Product Specification](https://github.com/ValRCS/RCS_WebDev_BootCamp/blob/master/ProductSpecificationTree.jpg}
+![Product Specification](https://github.com/ValRCS/RCS_WebDev_BootCamp/blob/master/ProductSpecificationTree.jpg)
 
 # TODO App ideas
 
