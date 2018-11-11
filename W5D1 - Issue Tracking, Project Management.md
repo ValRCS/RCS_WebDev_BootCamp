@@ -1,4 +1,4 @@
-![Product Specification](ProductSpecificationTree.jpg}
+[!Product Specification](ProductSpecificationTree.jpg}
 
 # TODO App ideas
 
