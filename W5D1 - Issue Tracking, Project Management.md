@@ -39,6 +39,14 @@ Mockplus (paid but free version is decent)
 
 * https://help.github.com/articles/about-issues/
 
+## Agile Project Management
+
+* https://www.atlassian.com/agile
+* https://en.wikipedia.org/wiki/Agile_software_development
+* https://techbeacon.com/agility-beyond-history%E2%80%94-legacy%E2%80%94-agile-development
+
+Funnily enough many of early agile adopters mostly found success in selling their advice but projects failed.
+
 Jira, Redmine, Bugzilla, Trac
 
 Redmine is pretty good and free
