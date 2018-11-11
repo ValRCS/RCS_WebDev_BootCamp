@@ -2,18 +2,24 @@
 
 * https://todo.microsoft.com/en-us
 * https://zapier.com/blog/best-todo-list-apps/
+* https://www.any.do
 
+### Compared different Javascript frameworks (later)
+* http://todomvc.com/
 
 # Mockup Tools
 
 Adobe XD (Supposedly still free)
 * https://www.adobe.com/products/xd.html
+
 Balsamiq (paid with trial)
 * https://balsamiq.com/
+
 Mockplus (paid but free version is decent)
 * https://www.mockplus.com/
-* https://moqups.com/
 
+* https://moqups.com/
+* https://wireframe.cc/
 
 
 # Issue tracking systems
