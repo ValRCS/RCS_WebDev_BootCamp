@@ -12,6 +12,10 @@
 ### Compared different Javascript frameworks (later)
 * http://todomvc.com/
 
+## MVP - minimum viable product
+
+* https://www.techopedia.com/definition/27809/minimum-viable-product-mvp
+
 # Mockup Tools
 
 Adobe XD (Supposedly still free)
