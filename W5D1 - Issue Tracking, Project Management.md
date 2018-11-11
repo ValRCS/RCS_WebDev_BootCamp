@@ -3,6 +3,7 @@
 * https://todo.microsoft.com/en-us
 * https://zapier.com/blog/best-todo-list-apps/
 * https://www.any.do
+* http://todomvc.com/examples/vanillajs/
 
 ### Compared different Javascript frameworks (later)
 * http://todomvc.com/
