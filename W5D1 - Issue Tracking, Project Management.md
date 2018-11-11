@@ -39,13 +39,7 @@ Mockplus (paid but free version is decent)
 
 * https://help.github.com/articles/about-issues/
 
-## Agile Project Management
 
-* https://www.atlassian.com/agile
-* https://en.wikipedia.org/wiki/Agile_software_development
-* https://techbeacon.com/agility-beyond-history%E2%80%94-legacy%E2%80%94-agile-development
-
-Funnily enough many of early agile adopters mostly found success in selling their advice but projects failed.
 
 Jira, Redmine, Bugzilla, Trac
 
@@ -73,3 +67,12 @@ Classic but still relevant more than ever
 * https://help.github.com/articles/inviting-users-to-join-your-organization/
 
 Jira, Trello many others offer standalone kanban boards or integrated
+
+## Agile Project Management
+
+* https://www.atlassian.com/agile
+* https://en.wikipedia.org/wiki/Agile_software_development
+* https://techbeacon.com/agility-beyond-history%E2%80%94-legacy%E2%80%94-agile-development
+
+Funnily enough many of early agile adopters mostly found success in selling their advice but projects failed.
+Still Agile is very popular today especially compared to older heavy water-fall technique.
