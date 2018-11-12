@@ -14,6 +14,7 @@
 
 ### Requirements Gathering
 
+* https://www.visual-paradigm.com/guide/requirements-gathering/requirement-analysis-techniques/
 * http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/guidelines/req_gathering_techniques_8CB8E44C.html
 
 ## MVP - minimum viable product
