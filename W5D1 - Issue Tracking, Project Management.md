@@ -12,6 +12,10 @@
 ### Compared different Javascript frameworks (later)
 * http://todomvc.com/
 
+### Requirements Gathering
+
+* http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/guidelines/req_gathering_techniques_8CB8E44C.html
+
 ## MVP - minimum viable product
 
 * https://www.techopedia.com/definition/27809/minimum-viable-product-mvp
