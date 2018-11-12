@@ -1,5 +1,10 @@
 
 
+## Drag and Drop HTML5 elements natively
+
+* https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+* https://www.w3schools.com/html/html5_draganddrop.asp
+
 
 ## Advanced topic on CSS performance
 
