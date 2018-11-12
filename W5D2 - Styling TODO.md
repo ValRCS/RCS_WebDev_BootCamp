@@ -7,6 +7,24 @@
 * https://codepen.io/retrofuturistic/pen/tlbHE
 
 
-## Advanced topic on CSS performance
+## Advanced topics on CSS performance
 
 * https://csswizardry.com/2018/11/css-and-network-performance
+
+
+# Databases
+
+SQL
+
+* https://www.w3schools.com/sql/sql_intro.asp
+* https://sqlzoo.net/
+
+## NoSQL
+
+* https://www.3pillarglobal.com/insights/exploring-the-different-types-of-nosql-databases
+* https://www.sitepoint.com/sql-vs-nosql-differences/
+
+## Adding Firebase (a Google cloud based NoSQL database) to your app
+
+* https://firebase.google.com/docs/web/setup
+
