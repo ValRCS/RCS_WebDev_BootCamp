@@ -20,6 +20,10 @@ Classic online TODO app
 * https://www.visual-paradigm.com/guide/requirements-gathering/requirement-analysis-techniques/
 * http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/guidelines/req_gathering_techniques_8CB8E44C.html
 
+# Almost everything is CRUD 
+
+* https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+
 ## MVP - minimum viable product
 
 * https://www.techopedia.com/definition/27809/minimum-viable-product-mvp
