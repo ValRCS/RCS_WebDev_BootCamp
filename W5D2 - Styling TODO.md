@@ -14,7 +14,7 @@
 
 # Databases
 
-SQL
+## SQL
 
 * https://www.w3schools.com/sql/sql_intro.asp
 * https://sqlzoo.net/
