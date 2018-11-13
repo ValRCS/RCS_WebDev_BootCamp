@@ -2,6 +2,18 @@
 
 * https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning
 
+# REST
+* https://en.wikipedia.org/wiki/Representational_state_transfer
+* https://www.restapitutorial.com/lessons/restquicktips.html
+
+# JSON API
+
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+* https://jsonplaceholder.typicode.com/
+* https://www.w3schools.com/js/js_json_http.asp
+* https://api.jquery.com/jquery.getjson/
+* https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa
+
 # Databases
 
 ## SQL
