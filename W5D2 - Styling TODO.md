@@ -1,4 +1,17 @@
+# Technical Debt
 
+* https://www.techopedia.com/definition/27913/technical-debt
+
+
+## Event Listeners
+
+* https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+* https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+## Text Node
+
+* https://www.w3schools.com/jsref/met_document_createtextnode.asp
+* https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode
 
 ## Drag and Drop HTML5 elements natively
 
