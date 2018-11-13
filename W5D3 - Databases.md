@@ -9,6 +9,7 @@
 # JSON API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 * https://jsonplaceholder.typicode.com/
 * https://www.w3schools.com/js/js_json_http.asp
 * https://api.jquery.com/jquery.getjson/
