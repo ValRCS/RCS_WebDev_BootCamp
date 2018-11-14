@@ -9,6 +9,7 @@
 ### More on new ES2015 way of making request via fetch
 * https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
 * https://flaviocopes.com/fetch-api/
+* https://medium.com/cameron-nokes/4-common-mistakes-front-end-developers-make-when-using-fetch-1f974f9d1aa1
 
 
 ## How Javascript Event loop really works
