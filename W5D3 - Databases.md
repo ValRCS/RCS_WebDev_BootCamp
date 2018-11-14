@@ -6,6 +6,13 @@
 * https://en.wikipedia.org/wiki/Representational_state_transfer
 * https://www.restapitutorial.com/lessons/restquicktips.html
 
+# AJAX and promises
+
+* https://www.w3schools.com/xml/ajax_intro.asp
+* http://callbackhell.com/
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+* https://javascript.info/promise-basics
+
 # JSON API
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
