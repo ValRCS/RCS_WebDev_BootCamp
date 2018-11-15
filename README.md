@@ -28,4 +28,21 @@ Web Development Bootcamp for RCS
 
 * W3D1 Lecture 29.10.2018: http://youtu.be/8kzuu4hJwVc
 * W3D2 Lecture 30.10.2018: http://youtu.be/F8wRlWHFPsY
-* W3D3 Lecture 31.10.2018 - http://youtu.be/Z-PfNAHGHaA
+* W3D3 Lecture 31.10.2018: http://youtu.be/Z-PfNAHGHaA
+* W3D4 Lecture: 01.11.2018: http://youtu.be/GNdYTpLKGig
+* W3D5 Lecture: 02.11.2018: https://youtu.be/wbFTCd_Xw5s
+### Week 4
+* W4D1 Lecture 05.11.2018: http://youtu.be/iIfB73UlFig
+* W4D2 Lecture 06.11.2018: http://youtu.be/oZB4q660QEc
+* W4D3 Lecture 07.11.2018: http://youtu.be/wPYwVokiTns
+* W4D4 lecture 09.11.2018: http://youtu.be/QaHF-vOavgE
+* W4D5 lecture 09.11.2018: http://youtu.be/3quy48j_3xI
+
+### Week 5
+* W5D1 Lecture 12.11.2018: http://youtu.be/0gmBKgnPkUs
+* W5D2 Lecture 13.11.2018: http://youtu.be/IBJI_3U2Isc
+* W5D3 Lecture 14.11.2018: http://youtu.be/2NlBbyTYZq4
+* W5D4 Lecture 15.11.2018: http://youtu.be/3B_wGYnk_NI
+*
+
+
