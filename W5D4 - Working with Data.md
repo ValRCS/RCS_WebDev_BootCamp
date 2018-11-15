@@ -5,6 +5,7 @@
 ## Using APIs
 
 * https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+* https://ghibliapi.herokuapp.com/#
 
 ### More on new ES2015 way of making request via fetch
 * https://developers.google.com/web/ilt/pwa/working-with-the-fetch-api
