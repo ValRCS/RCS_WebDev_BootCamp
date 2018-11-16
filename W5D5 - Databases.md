@@ -5,6 +5,9 @@
 * https://firebase.google.com/docs/reference/rest/auth/
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
+# PUT vs POST
+* https://stackoverflow.com/questions/630453/put-vs-post-in-rest
+
 # Javascript Modules in ES2015
 * https://stackoverflow.com/questions/950087/how-do-i-include-a-javascript-file-in-another-javascript-file
 * https://caniuse.com/#feat=es6-module
