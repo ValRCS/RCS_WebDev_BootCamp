@@ -1,3 +1,7 @@
+# Authentication VS Authorization
+
+* https://serverfault.com/questions/57077/what-is-the-difference-between-authentication-and-authorization
+
 # JSON Web Tokens
 
 * https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
