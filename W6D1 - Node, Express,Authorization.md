@@ -14,6 +14,7 @@
 ## Building REST API
 
 * https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
+* https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 
 ## Outsourced authorization
 
