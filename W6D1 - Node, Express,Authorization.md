@@ -1,3 +1,12 @@
+# Serverside languages
+
+* https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks
+* https://thinkmobiles.com/blog/php-vs-nodejs/
+
+## PHP and Laravel framework
+* http://php.net/manual/en/langref.php
+* https://laravel.com/docs/5.7
+
 # Node with Express framework
 * https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express
 * https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express
