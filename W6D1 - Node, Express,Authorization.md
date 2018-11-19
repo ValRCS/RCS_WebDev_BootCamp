@@ -8,6 +8,9 @@
 * https://laravel.com/docs/5.7
 
 # Node with Express framework
+* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
+
 * https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express
 * https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express
 
