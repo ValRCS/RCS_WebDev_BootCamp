@@ -14,6 +14,7 @@
 ## Building REST API
 
 * https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
+* https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb
 * https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 * https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
 
