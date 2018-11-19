@@ -2,6 +2,7 @@
 
 * https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks
 * https://thinkmobiles.com/blog/php-vs-nodejs/
+* https://www.geeksforgeeks.org/php-vs-node-js/
 
 ## PHP and Laravel framework
 * http://php.net/manual/en/langref.php
