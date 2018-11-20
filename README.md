@@ -43,6 +43,8 @@ Web Development Bootcamp for RCS
 * W5D2 Lecture 13.11.2018: http://youtu.be/IBJI_3U2Isc
 * W5D3 Lecture 14.11.2018: http://youtu.be/2NlBbyTYZq4
 * W5D4 Lecture 15.11.2018: http://youtu.be/3B_wGYnk_NI
-*
+* W5D5 Lecture 16.11.2018: https://www.youtube.com/watch?v=4hHwW5QQ4cw
 
+### Week 6
+* W6D1 Lecture 20.11.2018: https://www.youtube.com/watch?v=dKlggusAn9k
 
