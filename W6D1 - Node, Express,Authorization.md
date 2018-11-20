@@ -15,6 +15,8 @@
 * https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express
 * https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express
 
+* https://fullstack-developer.academy/res-json-vs-res-send-vs-res-end-in-express/
+
 ## Building REST API
 
 * https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
