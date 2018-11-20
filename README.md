@@ -18,9 +18,9 @@ Web Development Bootcamp for RCS
 
 ### Week 2
 
-* RCS Web NVA 22.10.2018 - CSS / SASS / Bootstrap: http://youtu.be/wVahUciGDP8
-* RCS Web NVA 23.10.2018 W2D2: http://youtu.be/hI9h7PZtkWo
-* RCS Web NVA 24.10.2018 W2D3 CSS Grid / Javascript: http://youtu.be/3QMPbmbyuKI
+* W2D2 Lecture 22.10.2018 - CSS / SASS / Bootstrap: http://youtu.be/wVahUciGDP8
+* W2D2 Lecture 23.10.2018 : http://youtu.be/hI9h7PZtkWo
+* W2D3 Lecture 24.10.2018  CSS Grid / Javascript: http://youtu.be/3QMPbmbyuKI
 * W2D4 Lecture 25.10.2018: http://youtu.be/KqijHLMUK2g
 * W2D5 Lecture 26.10.2018: http://youtu.be/8yI6AQABWbw
 
@@ -31,6 +31,7 @@ Web Development Bootcamp for RCS
 * W3D3 Lecture 31.10.2018: http://youtu.be/Z-PfNAHGHaA
 * W3D4 Lecture: 01.11.2018: http://youtu.be/GNdYTpLKGig
 * W3D5 Lecture: 02.11.2018: https://youtu.be/wbFTCd_Xw5s
+
 ### Week 4
 * W4D1 Lecture 05.11.2018: http://youtu.be/iIfB73UlFig
 * W4D2 Lecture 06.11.2018: http://youtu.be/oZB4q660QEc
