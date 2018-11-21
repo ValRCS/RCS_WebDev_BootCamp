@@ -2,6 +2,11 @@
 
 * https://expressjs.com/en/guide/routing.html
 
+## Rendering with template engines
+
+* https://expressjs.com/en/guide/using-template-engines.html
+* https://colorlib.com/wp/top-templating-engines-for-javascript/
+
 # Authentication VS Authorization
 
 * https://serverfault.com/questions/57077/what-is-the-difference-between-authentication-and-authorization
