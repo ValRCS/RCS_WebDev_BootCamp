@@ -6,6 +6,7 @@
 
 * https://expressjs.com/en/guide/using-template-engines.html
 * https://colorlib.com/wp/top-templating-engines-for-javascript/
+* https://webapplog.com/handlebars/
 
 # Authentication VS Authorization
 
