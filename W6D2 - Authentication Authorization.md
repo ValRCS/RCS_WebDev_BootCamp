@@ -8,6 +8,10 @@
 * https://colorlib.com/wp/top-templating-engines-for-javascript/
 * https://webapplog.com/handlebars/
 
+## Handling POST requests
+
+* https://github.com/expressjs/body-parser
+
 # Authentication VS Authorization
 
 * https://serverfault.com/questions/57077/what-is-the-difference-between-authentication-and-authorization
