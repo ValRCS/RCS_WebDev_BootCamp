@@ -2,6 +2,7 @@
 
 * http://webdevchecklist.com/
 * https://github.com/ValRCS/Front-End-Checklist
+* https://blog.udacity.com/front-end-web-developer-skills-checklist-free-e-guide
 
 
 # Hosting Node.JS application
