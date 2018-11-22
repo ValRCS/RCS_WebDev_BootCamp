@@ -12,7 +12,8 @@
 
 * https://support.google.com/webmasters/answer/156184?hl=en
 
-
+## organic search
+* https://en.wikipedia.org/wiki/Organic_search
 
 ## Cookies
 
