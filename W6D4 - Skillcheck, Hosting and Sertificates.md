@@ -4,6 +4,9 @@
 * https://github.com/ValRCS/Front-End-Checklist
 * https://blog.udacity.com/front-end-web-developer-skills-checklist-free-e-guide
 
+State of Javascript Survey
+* https://medium.freecodecamp.org/the-state-of-javascript-2018-8322bcc51bd8
+
 
 # Hosting Node.JS application
 
