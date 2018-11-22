@@ -5,6 +5,7 @@
 
 ## Cookies
 
+* https://guide.freecodecamp.org/javascript/manipulating-cookies/
 * https://www.w3schools.com/js/js_cookies.asp
 * https://stackoverflow.com/questions/16209145/how-to-set-cookie-in-node-js-using-express-framework
 
