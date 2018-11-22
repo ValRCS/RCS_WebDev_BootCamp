@@ -3,6 +3,17 @@
 * https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist
 * https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet
 
+# SEO topics
+
+## robots.txt
+* https://moz.com/learn/seo/robotstxt
+
+## sitemaps
+
+* https://support.google.com/webmasters/answer/156184?hl=en
+
+
+
 ## Cookies
 
 * https://guide.freecodecamp.org/javascript/manipulating-cookies/
