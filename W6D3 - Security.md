@@ -21,6 +21,11 @@
 * https://www.w3schools.com/js/js_cookies.asp
 * https://stackoverflow.com/questions/16209145/how-to-set-cookie-in-node-js-using-express-framework
 
+## Hashing and Salting
+
+Obviously do not trust any public page to generate hashes for you!
+* https://passwordsgenerator.net/sha256-hash-generator/
+
 ## NODE.js connecting to DBases
 
 * http://www.sqlitetutorial.net/sqlite-nodejs/connect/
