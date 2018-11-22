@@ -26,6 +26,10 @@
 Obviously do not trust any public page to generate hashes for you!
 * https://passwordsgenerator.net/sha256-hash-generator/
 
+## Check your own e-mail for security breaches
+
+* https://haveibeenpwned.com/
+
 ## NODE.js connecting to DBases
 
 * http://www.sqlitetutorial.net/sqlite-nodejs/connect/
