@@ -48,4 +48,6 @@ Web Development Bootcamp for RCS
 
 ### Week 6
 * W6D1 Lecture 20.11.2018: https://www.youtube.com/watch?v=dKlggusAn9k
+* W6D2 Lecture 21.11.2018 - http://youtu.be/gQCVhcMFoVo
+* W6D3 Lecture 22.11.2018 - http://youtu.be/7LUE1uXtMU4
 
