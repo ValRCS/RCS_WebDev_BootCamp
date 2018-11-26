@@ -33,3 +33,34 @@ Django in Python(language)
 
 * https://medium.freecodecamp.org/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2
 
+
+## Agile Programming Practices
+
+## SCRUM
+* https://en.wikipedia.org/wiki/Scrum_(software_development)
+
+## XP Programming
+
+
+## Pair Programming
+
+* https://en.wikipedia.org/wiki/Pair_programming
+
+
+## Rubber Duck Debugging
+
+* https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+# Books on good design!
+
+* https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things
+* https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515
+
+## Discoverability
+* https://webdesign.tutsplus.com/articles/discoverability-and-feedback-in-web-design--cms-25487
+
+## Requirements
+
+
+
+
