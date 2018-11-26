@@ -5,6 +5,13 @@
 * https://eloquentjavascript.net/
 * https://github.com/getify/You-Dont-Know-JS
 
+## Offline Documentation Readers
+MacOS
+* https://kapeli.com/dash
+Windows
+* https://zealdocs.org/
+* https://velocity.silverlakesoftware.com/
+
 ## Front end frameworks React or Vue
 
 * https://reactjs.org/
