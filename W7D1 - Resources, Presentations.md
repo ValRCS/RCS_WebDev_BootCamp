@@ -8,6 +8,7 @@
 ## Offline Documentation Readers
 MacOS
 * https://kapeli.com/dash
+
 Windows
 * https://zealdocs.org/
 * https://velocity.silverlakesoftware.com/
