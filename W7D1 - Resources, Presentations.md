@@ -67,6 +67,9 @@ Django in Python(language)
 * https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things
 * https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515
 
+## Smashing Magazine on web development
+* https://www.smashingmagazine.com/
+
 ## Discoverability
 * https://webdesign.tutsplus.com/articles/discoverability-and-feedback-in-web-design--cms-25487
 
